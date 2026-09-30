@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineer;AI+Explorer;Product+Builder"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineer;AI+Explorer;Product+Builder"
     alt="Typing animation"
   />
 </p>
