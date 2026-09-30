@@ -63,39 +63,11 @@
 ### Languages & Frameworks
 
 <p align="center">
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://nextjs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://nestjs.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://cplusplus.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-</a>
-
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,cpp&perline=8"
+    height="42"
+    alt="Languages and Frameworks"
+  />
 </p>
 
 ---
@@ -103,23 +75,11 @@
 ### 🗄️ Databases & Backend
 
 <p align="center">
-
-<a href="https://www.postgresql.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://redis.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://www.prisma.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" />
-</a>
-
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4"
+    height="42"
+    alt="Databases and Backend"
+  />
 </p>
 
 ---
@@ -127,34 +87,15 @@
 ### ☁️ Cloud, DevOps & Tools
 
 <p align="center">
-
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://vercel.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://www.postman.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" />
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
-</a>
-
+  <img
+    src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,linux&perline=6"
+    height="42"
+    alt="Cloud DevOps and Tools"
+  />
 </p>
 
 ---
+
 
 
 <details>
