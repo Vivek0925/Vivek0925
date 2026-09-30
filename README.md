@@ -149,9 +149,10 @@ A project-centric workspace for modern engineering teams, combining collaboratio
 
 <br>
 
-<a href="https://github.com/Vivek0925/Forge">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+<p>
+<a href="https://github.com/Vivek0925/Forge"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://glistening-endurance-production-76e8.up.railway.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
+</p>
 
 </td>
 
@@ -165,9 +166,11 @@ An AI learning platform focused on educational content, previous-year question a
 
 <br>
 
-<a href="https://github.com/Vivek0925">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+<p>
+  <a href="https://github.com/Vivek0925">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </td>
 
@@ -185,9 +188,11 @@ An environment for experimenting with AI agents across infrastructure incidents 
 
 <br>
 
-<a href="https://huggingface.co/spaces/vivxk/incident-response-env">
-<img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-</a>
+<p>
+  <a href="https://huggingface.co/spaces/vivxk/incident-response-env">
+    <img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+</p>
 
 </td>
 
@@ -201,15 +206,16 @@ A project built for the **Razorpay Revenue AI Hackathon**, exploring payment, re
 
 <br>
 
-<a href="https://github.com/Vivek0925">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+<p>
+  <a href="https://github.com/Vivek0925">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 ## 🏆 Hackathons & Building
