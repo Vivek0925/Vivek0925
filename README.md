@@ -327,15 +327,3 @@ A project built for the **Razorpay Revenue AI Hackathon**, exploring payment, re
 </p>
 
 ---
-
-<p align="center">
-
-### ⚡ Currently Building
-
-**Forge — Digital Engineering Workspace**
-
-<br>
-
-*Building products, breaking things, and learning how to build them better.*
-
-</p>
